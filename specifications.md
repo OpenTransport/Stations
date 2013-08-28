@@ -35,7 +35,7 @@ The id, is randomly generated hex string. The motivations are the following:
 ### Aliases
 
 Every object can be aliased in order to use the local ID in different systems (API id, OpenStreetMap id, Wikipedia page…).
-o
+
 Aliases have the following structure and are not considered stable.
 
     http://stations.io/{collection}/{referential}/{id}
